@@ -1,0 +1,8 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+Hello World it's just a plain html page
+</body>
+
+</html>
